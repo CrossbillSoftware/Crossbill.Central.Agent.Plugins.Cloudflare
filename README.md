@@ -160,7 +160,7 @@ dotnet Crossbill.Install.dll
 
 ## License
 
-The Crossbill Software License Agreement is located in [plugins/Crossbill.Central.Agent.Plugins.Cloudflare/license.txt](plugins/Crossbill.Central.Agent.Plugins.Cloudflare/license.txt) file.
+The Crossbill Software License Agreement is located in [plugins/Crossbill.Central.Agent.Plugins.Cloudflare/LICENSE.txt](plugins/Crossbill.Central.Agent.Plugins.Cloudflare/LICENSE.txt) file.
 
 The Third Party Code in Crossbill Products notice is located in [plugins/Crossbill.Central.Agent.Plugins.Cloudflare/third-party-code.txt](plugins/Crossbill.Central.Agent.Plugins.Cloudflare/third-party-code.txt) file.
 
