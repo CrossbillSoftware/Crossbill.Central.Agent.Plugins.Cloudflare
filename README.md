@@ -26,7 +26,7 @@ The outlined scenario requires a project in Crossbill Seeder configured as outli
 
 ## Installation
 ### Manual installation using Crossbill Central user interface
-1. Open Crossbill Central web page in a browser (common URL for the page is http://central.example.com where example.com is the domain name provided during the product installation);
+1. Open Crossbill Central web page in a browser (common URL for the page is `http://central.example.com` where `example.com` is the domain name provided during the product installation);
 2. In the Installed Apps list (left panel), click the Crossbill Central Agent app link to see the app's plugins;
 3. Enter the plugin name Crossbill.Central.Agent.Plugins.Cloudflare in the search box (right panel) and click Search;
 4. Click Install button;
@@ -71,7 +71,7 @@ dotnet Crossbill.Install.dll
 ```
 
 ### Automated installation using Crossbill Seeder's or Crossbill Authority's project
-1. Open Crossbill Bone web page in a browser (common URL for the page is http://bone.example.com where example.com is the domain name provided during the product installation);
+1. Open Crossbill Bone web page in a browser (common URL for the page is `http://bone.example.com` where `example.com` is the domain name provided during the product installation);
 2. Go to Crossbill Seeder's project page;
 3. Either create a new project or use an existing one;
 4. Under the Node apps section either locate an app in the target applications' lookup or enter the configuration manually:
