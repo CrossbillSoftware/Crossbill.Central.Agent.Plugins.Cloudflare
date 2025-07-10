@@ -133,7 +133,7 @@ dotnet Crossbill.Install.dll
 ```
 
 ### Add CloudFlare's DNS A-record from Crossbill Seeder's or Crossbill Authority's project
-1. Open Crossbill Bone web page in a browser (common URL for the page is http://bone.example.com where example.com is the domain name provided during the product installation);
+1. Open Crossbill Bone web page in a browser (common URL for the page is `http://bone.example.com` where `example.com` is the domain name provided during the product installation);
 2. Go to Crossbill Seeder's project page;
 3. Either create a new project or use an existing one;
 4. Under the apps section add the configuration:
