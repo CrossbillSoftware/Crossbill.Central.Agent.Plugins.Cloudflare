@@ -2,7 +2,6 @@
   "App": {
     "AppType": "Plugin",
     "FileName": "Plugin.zip",
-    "ConfigFile": "appsettings.json",
     "DeploymentPath": "."
   }
 }
